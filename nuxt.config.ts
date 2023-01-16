@@ -4,6 +4,6 @@ import { defineNuxtConfig } from 'nuxt/config'
 export default defineNuxtConfig({
   telemetry: false,
   app: {
-    baseURL: '/vpc-nux3-demo/',
+    baseURL: '/vpc-nuxt3-demo/',
   },
 })
