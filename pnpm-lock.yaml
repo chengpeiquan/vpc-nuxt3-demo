@@ -3,9 +3,11 @@ lockfileVersion: 5.4
 specifiers:
   less: ^4.1.3
   nuxt: 3.0.0
+  vue-baidu-analytics: ^2.2.0
   vue-picture-cropper: ^0.6.0
 
 dependencies:
+  vue-baidu-analytics: 2.2.0
   vue-picture-cropper: 0.6.0
 
 devDependencies:
@@ -4544,6 +4546,10 @@ packages:
   /vscode-uri/3.0.7:
     resolution: {integrity: sha512-eOpPHogvorZRobNqJGhapa0JdwaxpjVvyBp0QIUMRMSf8ZAlqOdEquKuRmw9Qwu0qXtJIWqFtMkmvJjUZmMjVA==}
     dev: true
+
+  /vue-baidu-analytics/2.2.0:
+    resolution: {integrity: sha512-15LH20JRABiusqas4mFkFLq+eJdQXoiyzSZOdSGfbsHKXEzAcUUEPRIc3Tj8g7yc20HdBlxt5yH46ftn2EIC9g==}
+    dev: false
 
   /vue-bundle-renderer/1.0.0:
     resolution: {integrity: sha512-43vCqTgaMXfHhtR8/VcxxWD1DgtzyvNc4wNyG5NKCIH19O1z5G9ZCRXTGEA2wifVec5PU82CkRLD2sTK9NkTdA==}
