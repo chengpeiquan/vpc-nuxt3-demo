@@ -1,0 +1,1 @@
+import{a as o,c as t,w as n,b as a,o as c,e as s}from"./entry.5d994ca3.js";const _={},r=s("span",null,"Open the `foo` page.",-1);function f(p,i){const e=a;return c(),t(e,{to:"/analytics/foo"},{default:n(()=>[r]),_:1})}const u=o(_,[["render",f]]);export{u as default};

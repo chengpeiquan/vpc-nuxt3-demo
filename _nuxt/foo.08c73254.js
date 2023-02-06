@@ -1,0 +1,1 @@
+import{a as t,c as o,w as a,b as n,o as c,e as s}from"./entry.5d994ca3.js";const _={},r=s("span",null,"Open the `bar` page.",-1);function p(f,i){const e=n;return c(),o(e,{to:"/analytics/bar"},{default:a(()=>[r]),_:1})}const u=t(_,[["render",p]]);export{u as default};
